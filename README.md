@@ -8,15 +8,9 @@
 ### Key Features
 The platform showcased underground DJ artists from Vancouver and Seattle, featuring one-hour sets from approximately 40 DJs, including John Morgan, a Vancouver-based DJ and sound engineer at Electronic Arts Canada at that time the project was SSX Tricky. Built using a Pentium III computer with an ergonomic keyboard and leveraging high-speed coaxial internet, this self-taught endeavor demonstrated technical innovation, entrepreneurial vision, and a passion for advancing IT expertise in web development.
 
-Task management is tracked in the `SoundsUnderground` 
-
-GitHub Project at [https://github.com/users/silicastormsiam/projects/6](https://github.com/users/silicastormsiam/projects/6). 
-Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUnderground]
-(https://silicastormsiam.github.io/SoundsUnderground) for a visual overview with an embedded MP3 player for the station ID sound bite.
-
 ## Music Genres
 
-The genre of music back then was dominantly in the clubs and afterhours - House, Deep House, Progression House, Funky House and Funky Breakbeats. Bob Sinclar, Daft Punk, Armand Van Helden, Dimitri from Paris, Joey Negro, and Modjo were the big producers of tracks being released.
+The genre of music back then was dominantly in the clubs and afterhours - House, Deep House, Progression House, Funky House, and Funky Breakbeats. Bob Sinclar, Daft Punk, Armand Van Helden, Dimitri from Paris, Joey Negro, and Modjo were the big producers of tracks being released.
 
 ## Technical Activities
 
@@ -60,15 +54,9 @@ The genre of music back then was dominantly in the clubs and afterhours - House,
 - FTP exploration
 - Business model implementation
 
-## Audio Artifacts
-
-- [Station ID Sound Bite](/docs/assets/soundsundergroundintro.mp3?raw=true): Branding clip created by John Morgan, played between DJ sets. An embedded MP3 player is available on the static GitHub Page.
-
 ## Visual Enhancements
 
 ![Project Status](https://img.shields.io/badge/status-documented-blue)
-
-![Audio Artifact](https://img.shields.io/badge/audio-Station%20ID%20Sound%20Bite-blue)
 
 ![PMBOK Project Tasks](https://img.shields.io/badge/PMBOK-Project%20Tasks-blue)
 
@@ -77,7 +65,7 @@ The genre of music back then was dominantly in the clubs and afterhours - House,
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silicastormsiam&layout=compact&theme=transparent)
 
 - **Images**: If screenshots, banners, or DJ profile images are found, they will be stored in `/docs/assets` to confirm typography.
-- **Static GitHub Page**: Available at [https://silicastormsiam.github.io/SoundsUnderground](https://github.com/silicastormsiam/SoundsUnderground) with dynamic visualizations and Orbitron-style typography.
+- **Static GitHub Page**: Available at [https://silicastormsiam.github.io/SoundsUnderground](https://silicastormsiam.github.io/SoundsUnderground) with dynamic visualizations.
 
 ## Contact
 
