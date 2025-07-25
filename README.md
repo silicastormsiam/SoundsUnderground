@@ -9,8 +9,10 @@
 The platform showcased underground DJ artists from Vancouver and Seattle, featuring one-hour sets from approximately 40 DJs, including John Morgan, a Vancouver-based DJ and sound engineer at Electronic Arts Canada at that time the project was SSX Tricky. Built using a Pentium III computer with an ergonomic keyboard and leveraging high-speed coaxial internet, this self-taught endeavor demonstrated technical innovation, entrepreneurial vision, and a passion for advancing IT expertise in web development.
 
 Task management is tracked in the `SoundsUnderground` 
+
 GitHub Project at [https://github.com/users/silicastormsiam/projects/6](https://github.com/users/silicastormsiam/projects/6). 
-Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUnderground](https://silicastormsiam.github.io/SoundsUnderground) for a visual overview with an embedded MP3 player for the station ID sound bite.
+Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUnderground]
+(https://silicastormsiam.github.io/SoundsUnderground) for a visual overview with an embedded MP3 player for the station ID sound bite.
 
 ## Music Genres
 
