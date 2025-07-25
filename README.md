@@ -2,11 +2,17 @@
 
 ## Overview
 
-**SoundsUnderground.com** was a pioneering internet radio platform developed and managed single-handedly by Andrew John Holland from 2000 to 2003, during the AOL era and the transition from dial-up to broadband internet. As Holland’s first major IT project, it launched him headfirst into the tech world, spanning four years and culminating in the successful sale of the domain and database to a larger Seattle-based internet channel in Q4 2003. The platform showcased underground DJ artists from Vancouver and Seattle, featuring one-hour sets from approximately 40 DJs, including John Morgan, a Vancouver-based DJ and Subject Matter Expert (SME) technical advisor at Electronic Arts Canada. Built using a Pentium III computer with an ergonomic keyboard and leveraging high-speed coaxial internet, this self-taught endeavor demonstrated technical innovation, entrepreneurial vision, and a passion for advancing IT expertise in web development. The website’s branding used a cyberpunk-inspired font resembling Orbitron (likely Eurostile or Bank Gothic, as Orbitron was released post-2003), enhancing the underground music aesthetic.
+### Project Significance
+**SoundsUnderground.com** was a pioneering internet radio platform developed and managed single-handedly by Andrew John Holland from 2000 to 2003, during the AOL era and the transition from dial-up to broadband internet. As Holland’s first major IT project, it launched him headfirst into the tech world, spanning four years and culminating in the successful sale of the domain and database to a larger Seattle-based internet channel in Q4 2003.
 
-Task management is tracked in the `SoundsUnderground Documentation` GitHub Project at [https://github.com/users/silicastormsiam/projects/6](https://github.com/users/silicastormsiam/projects/6).
+### Key Features
+The platform showcased underground DJ artists from Vancouver and Seattle, featuring one-hour sets from approximately 40 DJs, including John Morgan, a Vancouver-based DJ and sound engineer at Electronic Arts Canada at that time the project was SSX Tricky. Built using a Pentium III computer with an ergonomic keyboard and leveraging high-speed coaxial internet, this self-taught endeavor demonstrated technical innovation, entrepreneurial vision, and a passion for advancing IT expertise in web development.
 
-Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUnderground](https://silicastormsiam.github.io/SoundsUnderground) for a visual overview with an embedded MP3 player for the station ID sound bite.
+Task management is tracked in the `SoundsUnderground Documentation` GitHub Project at [https://github.com/users/silicastormsiam/projects/6](https://github.com/users/silicastormsiam/projects/6). Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUnderground](https://silicastormsiam.github.io/SoundsUnderground) for a visual overview with an embedded MP3 player for the station ID sound bite.
+
+## Music Genres
+
+The genre of music back then was dominantly in the clubs and afterhours - House, Deep House, Progression House, Funky House and Funky Breakbeats. Bob Sinclar, Daft Punk, Armand Van Helden, Dimitri from Paris, Joey Negro, and Modjo were the big producers of tracks being released.
 
 ## Technical Activities
 
@@ -19,14 +25,14 @@ Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUndergr
 
 ## Business Model
 
-- **Storage Fee for Uploads**: DJs, including John Morgan, paid a fee to upload sets, offsetting server costs.
+- **Storage Fee for Uploads**: DJs paid a fee to upload sets, offsetting server costs.
 - **Free Downloads for Listeners**: Provided free access to sets, driving engagement and accessibility.
 - **Domain and Data Sale**: Sold to a Seattle-based company in Q4 2003, demonstrating entrepreneurial acumen.
 
 ## Challenges and Solutions
 
 - **Challenge**: Limited hardware capabilities (Pentium III).
-  - **Solution**: Optimized streaming and database operations, guided by John Morgan’s expertise.
+  - **Solution**: Optimized streaming and database operations, Technical Advisor - John Morgan
 - **Challenge**: Managing 40 DJs and ensuring reliable playback.
   - **Solution**: Developed a “Play Next” queue system.
 - **Challenge**: Handling large MP3 file uploads.
@@ -60,12 +66,14 @@ Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUndergr
 
 ![Audio Artifact](https://img.shields.io/badge/audio-Station%20ID%20Sound%20Bite-blue)
 
-![Font](https://img.shields.io/badge/font-Cyberpunk%20Orbitron%20Style-blue)
+![PMBOK Project Tasks](https://img.shields.io/badge/PMBOK-Project%20Tasks-blue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silicastormsiam&show_icons=true&theme=transparent)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silicastormsiam&layout=compact&theme=transparent)
+
 - **Images**: If screenshots, banners, or DJ profile images are found, they will be stored in `/docs/assets` to confirm typography.
-- **Static GitHub Page**: Available at [https://silicastormsiam.github.io/SoundsUnderground](https://silicastormsiam.github.io/SoundsUnderground) with dynamic visualizations and Orbitron-style typography.
+- **Static GitHub Page**: Available at [https://silicastormsiam.github.io/SoundsUnderground](https://github.com/silicastormsiam/SoundsUnderground) with dynamic visualizations and Orbitron-style typography.
 
 ## Contact
 
