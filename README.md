@@ -2,7 +2,14 @@
 
 ## Overview
 
-**SoundsUnderground.com** was a pioneering internet radio platform developed and managed single-handedly by Andrew John Holland from 2000 to 2003, during the AOL era and the transition from dial-up to broadband internet. As Holland’s first major IT project, it launched him headfirst into the tech world, spanning four years and culminating in the successful sale of the domain and database to a larger Seattle-based internet channel in Q4 2003. The platform showcased underground DJ artists from Vancouver and Seattle, featuring one-hour sets from approximately 40 DJs, including John Morgan, a Vancouver-based DJ and Subject Matter Expert (SME) technical advisor at Electronic Arts Canada. Built using a Pentium III computer with an ergonomic keyboard and leveraging high-speed coaxial internet, this self-taught endeavor demonstrated technical innovation, entrepreneurial vision, and a passion for advancing IT expertise in web development. The website’s branding used a cyberpunk-inspired font resembling Orbitron (likely Eurostile or Bank Gothic, as Orbitron was released post-2003), enhancing the underground music aesthetic.
+### Project Significance
+**SoundsUnderground.com** was a pioneering internet radio platform developed and managed single-handedly by Andrew John Holland from 2000 to 2003, during the AOL era and the transition from dial-up to broadband internet. As Holland’s first major IT project, it launched him headfirst into the tech world, spanning four years and culminating in the successful sale of the domain and database to a larger Seattle-based internet channel in Q4 2003.
+
+### Key Features
+The platform showcased underground DJ artists from Vancouver and Seattle, featuring one-hour sets from approximately 40 DJs, including John Morgan, a Vancouver-based DJ and Subject Matter Expert (SME) technical advisor at Electronic Arts Canada. Built using a Pentium III computer with an ergonomic keyboard and leveraging high-speed coaxial internet, this self-taught endeavor demonstrated technical innovation, entrepreneurial vision, and a passion for advancing IT expertise in web development.
+
+### Branding
+The website’s branding used a cyberpunk-inspired font resembling Orbitron (likely Eurostile or Bank Gothic, as Orbitron was released post-2003), enhancing the underground music aesthetic.
 
 Task management is tracked in the `SoundsUnderground Documentation` GitHub Project at [https://github.com/users/silicastormsiam/projects/6](https://github.com/users/silicastormsiam/projects/6). Visit the static GitHub Page at [https://silicastormsiam.github.io/SoundsUnderground](https://silicastormsiam.github.io/SoundsUnderground) for a visual overview with an embedded MP3 player for the station ID sound bite.
 
@@ -14,7 +21,6 @@ Task management is tracked in the `SoundsUnderground Documentation` GitHub Proje
 - **“Play Next” Queue System**: Developed a bespoke system to automate one-hour DJ set playback, ensuring seamless transitions.
 - **File Management and FTP Exploration**: Optimized large MP3 file uploads via File Transfer Protocol (FTP), informed by John Morgan’s audio production and streaming expertise.
 - **User Interface Coding**: Created an intuitive interface optimized for early web browsers (e.g., Netscape, Internet Explorer).
-- **Branding and Typography**: Used a cyberpunk-inspired font resembling Orbitron (likely Eurostile or Bank Gothic, due to Orbitron’s post-2003 release) for branding elements like the logo or headers, aligning with the platform’s underground music aesthetic.
 
 ## Business Model
 
@@ -51,7 +57,7 @@ Task management is tracked in the `SoundsUnderground Documentation` GitHub Proje
 
 ## Audio Artifacts
 
-- [Station ID Sound Bite](/docs/assets/soundsundergroundintro.mp3?raw=true): Branding clip created by John Morgan, played between DJ sets. An embedded MP3 player is available on the static GitHub Page.
+![Station ID](https://img.shields.io/badge/Station-ID-yellow?style=flat-square&color=black) [Listen to Station ID Sound Bite](/docs/assets/soundsundergroundintro.mp3?raw=true): Branding clip created by John Morgan, played between DJ sets. An embedded MP3 player is available on the static GitHub Page.
 
 ## Visual Enhancements
 
