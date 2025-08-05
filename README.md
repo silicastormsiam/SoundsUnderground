@@ -76,6 +76,21 @@ Featuring tracks from legends like **Bob Sinclar**, **Daft Punk**, **Armand Van 
 
 ---
 
+💾 First PC Spec Sheet – Dell Coppermine Tower Edition
+"Not just a machine. A legend forged in beige."
+🧠 Core System Specs
+Component	Details
+Model	Dell Tower (Custom Modified)
+CPU	Intel® Pentium III – Coppermine Core
+Base Clock	600 MHz (Overclocked to ~800 MHz — just under smoke threshold)
+Architecture	32-bit
+Chipset	Intel® 810 (integrated graphics, AGP slot that mostly just sat there)
+RAM	Started at < 128 MB — upgraded later (probably 256 MB SDRAM)
+Cooling	OEM fan replaced early on; panel left off for "thermal regulation"
+GPU	Integrated (Intel 810) – “technically functional”
+
+---
+
 ## 🌍 Cultural Impact & Outcomes
 
 * 🌟 **Self-taught technical launchpad** into IT.
